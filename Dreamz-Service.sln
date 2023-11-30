@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamz-Service", "Dreamz-Service.csproj", "{40CA72C8-E74D-4908-9A02-FF4829BAB926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40CA72C8-E74D-4908-9A02-FF4829BAB926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CA72C8-E74D-4908-9A02-FF4829BAB926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CA72C8-E74D-4908-9A02-FF4829BAB926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CA72C8-E74D-4908-9A02-FF4829BAB926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6797E77-7EFD-4E16-B7DB-DBD5F49C25D4}
+	EndGlobalSection
+EndGlobal
